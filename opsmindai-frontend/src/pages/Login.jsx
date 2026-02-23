@@ -87,7 +87,7 @@ const Login = () => {
         </button>
 
         <p className="text-xs text-[#5B6B7A] mt-4 text-center">
-          Demo Credentials: admin@gmail.com / admin
+          
         </p>
       </div>
     </div>
