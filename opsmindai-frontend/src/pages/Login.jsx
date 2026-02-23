@@ -52,7 +52,7 @@ const Login = () => {
             OpsMind AI
           </h2>
           <p className="text-sm text-[#5B6B7A] mt-1">
-            Enterprise SOP Agent Login
+            Enterprise SOP Agent Log in 
           </p>
         </div>
 
